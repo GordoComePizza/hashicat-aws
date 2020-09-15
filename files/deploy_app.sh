@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to your doom. Now get the cat food and fill my bowl.
+  Welcome to your doom, servant. Now get the cat food and fill my bowl.
   <!-- END -->
 
   </div>
